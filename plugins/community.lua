@@ -25,4 +25,5 @@ return {
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.split-and-window.minimap-vim" },
   { import = "astrocommunity.utility.telescope-fzy-native-nvim" },
+  { import = "astrocommunity.motion.flash-nvim" },
 }
