@@ -1,3 +1,4 @@
+vim.g.everforest_background = 'soft'
 return {
   -- Configure AstroNvim updates
   updater = {
@@ -18,7 +19,10 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "tokyonight",
+  -- g = {
+  --   everforest_background = "soft",
+  -- },
+  colorscheme = "everforest",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {

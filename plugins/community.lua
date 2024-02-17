@@ -11,6 +11,8 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.colorscheme.melange-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.colorscheme.everforest" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.bars-and-lines.heirline-vscode-winbar" },
   { import = "astrocommunity.pack.html-css" },
