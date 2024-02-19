@@ -13,6 +13,7 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.colorscheme.everforest" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.colorscheme.nordic-nvim" },
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.bars-and-lines.heirline-vscode-winbar" },
   { import = "astrocommunity.pack.html-css" },
@@ -26,4 +27,5 @@ return {
   { import = "astrocommunity.split-and-window.minimap-vim" },
   { import = "astrocommunity.utility.telescope-fzy-native-nvim" },
   { import = "astrocommunity.motion.flash-nvim" },
+  { import = "astrocommunity.git.diffview-nvim" },
 }

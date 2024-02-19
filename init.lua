@@ -22,7 +22,7 @@ return {
   -- g = {
   --   everforest_background = "soft",
   -- },
-  colorscheme = "everforest",
+  colorscheme = "nordic",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
